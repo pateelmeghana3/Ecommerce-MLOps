@@ -1,0 +1,6 @@
+Feature,Drift_Score,Drift_Threshold,Drift_Detected
+recency,0.039296616507627495,0.2,False
+frequency,0.02141893989270138,0.2,False
+monetary,0.04766365311549466,0.2,False
+purchase_days,0.01658902535761161,0.2,False
+customer_lifetime_days,0.02690642528477309,0.2,False

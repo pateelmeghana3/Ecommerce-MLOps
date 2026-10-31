@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# IDE settings
+.vscode/
+
+# MLflow generated files
+mlruns/
+mlflow.db
+# Large generated datasets
+data/processed/*.csv
+data/rejected/*.csv
+
+# MLflow tracking
+mlruns/
+mlflow.db

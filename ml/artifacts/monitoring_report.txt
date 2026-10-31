@@ -1,0 +1,31 @@
+CUSTOMER CHURN MODEL MONITORING REPORT
+========================================
+
+Dataset rows: 3370
+
+DATA QUALITY
+------------
+Missing values checked: YES
+Infinite values checked: YES
+Duplicate rows checked: YES
+
+FEATURE DRIFT
+-------------
+Drift threshold: 0.2
+Features with drift: 0
+Drift status: OK
+
+MODEL PERFORMANCE
+-----------------
+Accuracy: 0.6798
+Precision: 0.6183
+Recall: 0.6674
+F1: 0.6419
+ROC-AUC: 0.7455
+Performance threshold: 0.6
+Performance status: OK
+
+RETRAINING RECOMMENDATION
+--------------------------
+NO RETRAINING REQUIRED
+Model monitoring is within defined thresholds.

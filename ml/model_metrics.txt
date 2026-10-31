@@ -1,0 +1,10 @@
+CUSTOMER CHURN MODEL RESULTS
+============================
+
+              Model  Accuracy  Precision   Recall       F1  ROC-AUC
+Logistic Regression  0.669139   0.605678 0.662069 0.632619 0.721992
+      Random Forest  0.609792   0.542320 0.596552 0.568144 0.678475
+            XGBoost  0.648368   0.588040 0.610345 0.598985 0.708360
+
+Best Model: Logistic Regression
+Best F1 Score: 0.6326

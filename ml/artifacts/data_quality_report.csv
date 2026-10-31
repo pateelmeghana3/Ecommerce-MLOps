@@ -1,0 +1,6 @@
+Feature,Missing_Values,Infinite_Values,Duplicate_Rows
+recency,0,0,0
+frequency,0,0,0
+monetary,0,0,0
+purchase_days,0,0,0
+customer_lifetime_days,0,0,0

@@ -1,0 +1,10 @@
+venv/
+.git/
+__pycache__/
+*.pyc
+data/
+dags/
+mlflow.db
+ml/runs/
+ml/logs/
+ml/artifacts/
